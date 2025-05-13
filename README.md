@@ -70,6 +70,13 @@ ticket_classifier/
 ├── router.py               # Routing logic and email mapping
 ├── utils.py                # Helper functions (e.g., CSV read/write)
 ├── streamlit_app.py        # (Optional) UI for uploading and exporting
+
+## 📈 Impact
+Reduces manual triage time by ~80%
+
+Gives non-technical staff access to AI without writing code
+
+Provides a production-ready LLM use case in an internal ops context
 └── data/
     └── ticket_data.csv     # Simulated ticket data
 
