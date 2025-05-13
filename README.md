@@ -13,6 +13,10 @@ This project is an intelligent internal support ticket classifier that uses Open
 
 ![Ticket Classifier in Action](assets/demo.gif)
 
+## Demo Video
+
+https://drive.google.com/file/d/1GKKJI3xjcpGj72JkCLwtgg6Dtezmci-l/view?usp=sharing
+
 ## 🧠 Problem Statement
 Operations teams often receive a large volume of unstructured issue reports (emails, form submissions, Slack messages). Manual triaging is inefficient and prone to delays. The goal is to create an intelligent assistant that automatically tags the issue type and routes it to the appropriate department head.
 
